@@ -1,4 +1,5 @@
 // Singleton Pattern - On Stack
+// Returning a pointer of static object
 
 #include <iostream>
 
